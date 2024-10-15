@@ -1,9 +1,16 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # 每天定时运行
-  workflow_dispatch:  # 允许手动触发
+  push:
+    branches:
+      - master
+    paths:
+      - 'README.md'
+      - 'img/**'
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
 
 jobs:
   update-readme:
