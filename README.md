@@ -1,4 +1,4 @@
-# img 目录下的文件
+# A Repository for PicGO# img contents
 
 - [202410151348646.jpg](img/202410151348646.jpg)
 - [GPUPerf.png](img/GPUPerf.png)
