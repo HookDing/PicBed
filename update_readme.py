@@ -9,7 +9,8 @@ files = [f for f in os.listdir(dir_path) if os.path.isfile(os.path.join(dir_path
 
 # 开始更新 README.md 文件
 with open(readme_path, 'w', encoding='utf-8') as readme_file:
-    readme_file.write("# img 目录下的文件\n\n")
+    readme_file.write("# A Repository for PicGO")
+    readme_file.write("# img contents\n\n")
     for filename in files:
         file_path = os.path.join(dir_path, filename)
         # 写入每个文件的链接到 README.md
