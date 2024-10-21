@@ -2,6 +2,7 @@
 
 ## img contents
 
+- [GTX1080-TS.png](img/GTX1080-TS.png)
 - [2024-10-21_00-53-05.png](img/2024-10-21_00-53-05.png)
 - [2024-10-21_00-42-04.png](img/2024-10-21_00-42-04.png)
 - [GPUPerf.png](img/GPUPerf.png)
