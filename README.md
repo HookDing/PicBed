@@ -24,6 +24,7 @@ $$/   $$/  $$$$$$/   $$$$$$/  $$/   $$/  $$$$$$$/ $$/ $$/   $$/  $$$$$$$ |
 - [GPUPerf.png](img/GPUPerf.png)
 - [CPUPerf.png](img/CPUPerf.png)
 - [202412181301611.JPG](img/202412181301611.JPG)
+- [202412182210410.jpeg](img/202412182210410.jpeg)
 - [vim-commands_CN.png](img/vim-commands_CN.png)
 - [202410211341710.png](img/202410211341710.png)
 - [AllPerf.png](img/AllPerf.png)
