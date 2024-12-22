@@ -39,4 +39,5 @@ $$/   $$/  $$$$$$/   $$$$$$/  $$/   $$/  $$$$$$$/ $$/ $$/   $$/  $$$$$$$ |
 - [202412182212806.jpeg](img/202412182212806.jpeg)
 - [GTX1080-TS.png](img/GTX1080-TS.png)
 - [AllPerf.png](img/AllPerf.png)
+- [202412222313978.png](img/202412222313978.png)
 - [GPUPerf.png](img/GPUPerf.png)
